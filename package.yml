@@ -1,0 +1,340 @@
+name: currencies-symbols
+parent: default
+
+matches:
+- trigger: ":ALL"
+	replace: "Lek"
+
+- trigger: ":AFN"
+	replace: "؋"
+
+- trigger: ":ARS"
+	replace: "$"
+
+- trigger: ":AWG"
+	replace: "ƒ"
+
+- trigger: ":AUD"
+	replace: "$"
+
+- trigger: ":AZN"
+	replace: "₼"
+
+- trigger: ":BSD"
+	replace: "$"
+
+- trigger: ":BBD"
+	replace: "$"
+
+- trigger: ":BYR"
+	replace: "p."
+
+- trigger: ":BZD"
+	replace: "BZ$"
+
+- trigger: ":BMD"
+	replace: "$"
+
+- trigger: ":BOB"
+	replace: "$b"
+
+- trigger: ":BAM"
+	replace: "KM"
+
+- trigger: ":BWP"
+	replace: "P"
+
+- trigger: ":BGN"
+	replace: "лв"
+
+- trigger: ":BRL"
+	replace: "R$"
+
+- trigger: ":BND"
+	replace: "$"
+
+- trigger: ":KHR"
+	replace: "៛"
+
+- trigger: ":CAD"
+	replace: "$"
+
+- trigger: ":KYD"
+	replace: "$"
+
+- trigger: ":CLP"
+	replace: "$"
+
+- trigger: ":CNY"
+	replace: "¥"
+
+- trigger: ":COP"
+	replace: "$"
+
+- trigger: ":CRC"
+	replace: "₡"
+
+- trigger: ":HRK"
+	replace: "kn"
+
+- trigger: ":CUP"
+	replace: "₱"
+
+- trigger: ":CZK"
+	replace: "Kč"
+
+- trigger: ":DKK"
+	replace: "kr"
+
+- trigger: ":DOP"
+	replace: "RD$"
+
+- trigger: ":EGP"
+	replace: "£"
+
+- trigger: ":SVC"
+	replace: "$"
+
+- trigger: ":EEK"
+	replace: "kr"
+
+- trigger: ":EUR"
+	replace: "€"
+
+- trigger: ":FKP"
+	replace: "£"
+
+- trigger: ":FJD"
+	replace: "$"
+
+- trigger: ":GEL"
+	replace: "₾"
+
+- trigger: ":GHC"
+	replace: "¢"
+
+- trigger: ":GIP"
+	replace: "£"
+
+- trigger: ":GTQ"
+	replace: "Q"
+
+- trigger: ":GGP"
+	replace: "£"
+
+- trigger: ":GYD"
+	replace: "$"
+
+- trigger: ":HNL"
+	replace: "L"
+
+- trigger: ":HKD"
+	replace: "$"
+
+- trigger: ":HUF"
+	replace: "Ft"
+
+- trigger: ":ISK"
+	replace: "kr"
+
+- trigger: ":INR"
+	replace: "₹"
+
+- trigger: ":IDR"
+	replace: "Rp"
+
+- trigger: ":IRR"
+	replace: "﷼"
+
+- trigger: ":IMP"
+	replace: "£"
+
+- trigger: ":ILS"
+	replace: "₪"
+
+- trigger: ":JMD"
+	replace: "J$"
+
+- trigger: ":JPY"
+	replace: "¥"
+
+- trigger: ":JEP"
+	replace: "£"
+
+- trigger: ":KZT"
+	replace: "лв"
+
+- trigger: ":KPW"
+	replace: "₩"
+
+- trigger: ":KRW"
+	replace: "₩"
+
+- trigger: ":KGS"
+	replace: "лв"
+
+- trigger: ":LAK"
+	replace: "₭"
+
+- trigger: ":LVL"
+	replace: "Ls"
+
+- trigger: ":LBP"
+	replace: "£"
+
+- trigger: ":LRD"
+	replace: "$"
+
+- trigger: ":LTL"
+	replace: "Lt"
+
+- trigger: ":MKD"
+	replace: "ден"
+
+- trigger: ":MYR"
+	replace: "RM"
+
+- trigger: ":MUR"
+	replace: "₨"
+
+- trigger: ":MXN"
+	replace: "$"
+
+- trigger: ":MNT"
+	replace: "₮"
+
+- trigger: ":MZN"
+	replace: "MT"
+
+- trigger: ":NAD"
+	replace: "$"
+
+- trigger: ":NPR"
+	replace: "₨"
+
+- trigger: ":ANG"
+	replace: "ƒ"
+
+- trigger: ":NZD"
+	replace: "$"
+
+- trigger: ":NIO"
+	replace: "C$"
+
+- trigger: ":NGN"
+	replace: "₦"
+
+- trigger: ":NOK"
+	replace: "kr"
+
+- trigger: ":OMR"
+	replace: "﷼"
+
+- trigger: ":PKR"
+	replace: "₨"
+
+- trigger: ":PAB"
+	replace: "B/."
+
+- trigger: ":PYG"
+	replace: "Gs"
+
+- trigger: ":PEN"
+	replace: "S/."
+
+- trigger: ":PHP"
+	replace: "₱"
+
+- trigger: ":PLN"
+	replace: "zł"
+
+- trigger: ":QAR"
+	replace: "﷼"
+
+- trigger: ":RON"
+	replace: "lei"
+
+- trigger: ":RUB"
+	replace: "₽"
+
+- trigger: ":SHP"
+	replace: "£"
+
+- trigger: ":SAR"
+	replace: "﷼"
+
+- trigger: ":RSD"
+	replace: "Дин."
+
+- trigger: ":SCR"
+	replace: "₨"
+
+- trigger: ":SGD"
+	replace: "$"
+
+- trigger: ":SBD"
+	replace: "$"
+
+- trigger: ":SOS"
+	replace: "S"
+
+- trigger: ":ZAR"
+	replace: "R"
+
+- trigger: ":LKR"
+	replace: "₨"
+
+- trigger: ":SEK"
+	replace: "kr"
+
+- trigger: ":CHF"
+	replace: "CHF"
+
+- trigger: ":SRD"
+	replace: "$"
+
+- trigger: ":SYP"
+	replace: "£"
+
+- trigger: ":TWD"
+	replace: "NT$"
+
+- trigger: ":THB"
+	replace: "฿"
+
+- trigger: ":TTD"
+	replace: "TT$"
+
+- trigger: ":TRL"
+	replace: "₺"
+
+- trigger: ":TVD"
+	replace: "$"
+
+- trigger: ":UAH"
+	replace: "₴"
+
+- trigger: ":GBP"
+	replace: "£"
+
+- trigger: ":USD"
+	replace: "$"
+
+- trigger: ":UYU"
+	replace: "$U"
+
+- trigger: ":UZS"
+	replace: "лв"
+
+- trigger: ":VEF"
+	replace: "Bs"
+
+- trigger: ":VND"
+	replace: "₫"
+
+- trigger: ":YER"
+	replace: "﷼"
+
+- trigger: ":ZWD"
+	replace: "Z$"
+
