@@ -3,337 +3,337 @@ parent: default
 
 matches:
 - trigger: ":ALL"
-	replace: "Lek"
+  replace: "Lek"
 
 - trigger: ":AFN"
-	replace: "؋"
+  replace: "؋"
 
 - trigger: ":ARS"
-	replace: "$"
+  replace: "$"
 
 - trigger: ":AWG"
-	replace: "ƒ"
+  replace: "ƒ"
 
 - trigger: ":AUD"
-	replace: "$"
+  replace: "$"
 
 - trigger: ":AZN"
-	replace: "₼"
+  replace: "₼"
 
 - trigger: ":BSD"
-	replace: "$"
+  replace: "$"
 
 - trigger: ":BBD"
-	replace: "$"
+  replace: "$"
 
 - trigger: ":BYR"
-	replace: "p."
+  replace: "p."
 
 - trigger: ":BZD"
-	replace: "BZ$"
+  replace: "BZ$"
 
 - trigger: ":BMD"
-	replace: "$"
+  replace: "$"
 
 - trigger: ":BOB"
-	replace: "$b"
+  replace: "$b"
 
 - trigger: ":BAM"
-	replace: "KM"
+  replace: "KM"
 
 - trigger: ":BWP"
-	replace: "P"
+  replace: "P"
 
 - trigger: ":BGN"
-	replace: "лв"
+  replace: "лв"
 
 - trigger: ":BRL"
-	replace: "R$"
+  replace: "R$"
 
 - trigger: ":BND"
-	replace: "$"
+  replace: "$"
 
 - trigger: ":KHR"
-	replace: "៛"
+  replace: "៛"
 
 - trigger: ":CAD"
-	replace: "$"
+  replace: "$"
 
 - trigger: ":KYD"
-	replace: "$"
+  replace: "$"
 
 - trigger: ":CLP"
-	replace: "$"
+  replace: "$"
 
 - trigger: ":CNY"
-	replace: "¥"
+  replace: "¥"
 
 - trigger: ":COP"
-	replace: "$"
+  replace: "$"
 
 - trigger: ":CRC"
-	replace: "₡"
+  replace: "₡"
 
 - trigger: ":HRK"
-	replace: "kn"
+  replace: "kn"
 
 - trigger: ":CUP"
-	replace: "₱"
+  replace: "₱"
 
 - trigger: ":CZK"
-	replace: "Kč"
+  replace: "Kč"
 
 - trigger: ":DKK"
-	replace: "kr"
+  replace: "kr"
 
 - trigger: ":DOP"
-	replace: "RD$"
+  replace: "RD$"
 
 - trigger: ":EGP"
-	replace: "£"
+  replace: "£"
 
 - trigger: ":SVC"
-	replace: "$"
+  replace: "$"
 
 - trigger: ":EEK"
-	replace: "kr"
+  replace: "kr"
 
 - trigger: ":EUR"
-	replace: "€"
+  replace: "€"
 
 - trigger: ":FKP"
-	replace: "£"
+  replace: "£"
 
 - trigger: ":FJD"
-	replace: "$"
+  replace: "$"
 
 - trigger: ":GEL"
-	replace: "₾"
+  replace: "₾"
 
 - trigger: ":GHC"
-	replace: "¢"
+  replace: "¢"
 
 - trigger: ":GIP"
-	replace: "£"
+  replace: "£"
 
 - trigger: ":GTQ"
-	replace: "Q"
+  replace: "Q"
 
 - trigger: ":GGP"
-	replace: "£"
+  replace: "£"
 
 - trigger: ":GYD"
-	replace: "$"
+  replace: "$"
 
 - trigger: ":HNL"
-	replace: "L"
+  replace: "L"
 
 - trigger: ":HKD"
-	replace: "$"
+  replace: "$"
 
 - trigger: ":HUF"
-	replace: "Ft"
+  replace: "Ft"
 
 - trigger: ":ISK"
-	replace: "kr"
+  replace: "kr"
 
 - trigger: ":INR"
-	replace: "₹"
+  replace: "₹"
 
 - trigger: ":IDR"
-	replace: "Rp"
+  replace: "Rp"
 
 - trigger: ":IRR"
-	replace: "﷼"
+  replace: "﷼"
 
 - trigger: ":IMP"
-	replace: "£"
+  replace: "£"
 
 - trigger: ":ILS"
-	replace: "₪"
+  replace: "₪"
 
 - trigger: ":JMD"
-	replace: "J$"
+  replace: "J$"
 
 - trigger: ":JPY"
-	replace: "¥"
+  replace: "¥"
 
 - trigger: ":JEP"
-	replace: "£"
+  replace: "£"
 
 - trigger: ":KZT"
-	replace: "лв"
+  replace: "лв"
 
 - trigger: ":KPW"
-	replace: "₩"
+  replace: "₩"
 
 - trigger: ":KRW"
-	replace: "₩"
+  replace: "₩"
 
 - trigger: ":KGS"
-	replace: "лв"
+  replace: "лв"
 
 - trigger: ":LAK"
-	replace: "₭"
+  replace: "₭"
 
 - trigger: ":LVL"
-	replace: "Ls"
+  replace: "Ls"
 
 - trigger: ":LBP"
-	replace: "£"
+  replace: "£"
 
 - trigger: ":LRD"
-	replace: "$"
+  replace: "$"
 
 - trigger: ":LTL"
-	replace: "Lt"
+  replace: "Lt"
 
 - trigger: ":MKD"
-	replace: "ден"
+  replace: "ден"
 
 - trigger: ":MYR"
-	replace: "RM"
+  replace: "RM"
 
 - trigger: ":MUR"
-	replace: "₨"
+  replace: "₨"
 
 - trigger: ":MXN"
-	replace: "$"
+  replace: "$"
 
 - trigger: ":MNT"
-	replace: "₮"
+  replace: "₮"
 
 - trigger: ":MZN"
-	replace: "MT"
+  replace: "MT"
 
 - trigger: ":NAD"
-	replace: "$"
+  replace: "$"
 
 - trigger: ":NPR"
-	replace: "₨"
+  replace: "₨"
 
 - trigger: ":ANG"
-	replace: "ƒ"
+  replace: "ƒ"
 
 - trigger: ":NZD"
-	replace: "$"
+  replace: "$"
 
 - trigger: ":NIO"
-	replace: "C$"
+  replace: "C$"
 
 - trigger: ":NGN"
-	replace: "₦"
+  replace: "₦"
 
 - trigger: ":NOK"
-	replace: "kr"
+  replace: "kr"
 
 - trigger: ":OMR"
-	replace: "﷼"
+  replace: "﷼"
 
 - trigger: ":PKR"
-	replace: "₨"
+  replace: "₨"
 
 - trigger: ":PAB"
-	replace: "B/."
+  replace: "B/."
 
 - trigger: ":PYG"
-	replace: "Gs"
+  replace: "Gs"
 
 - trigger: ":PEN"
-	replace: "S/."
+  replace: "S/."
 
 - trigger: ":PHP"
-	replace: "₱"
+  replace: "₱"
 
 - trigger: ":PLN"
-	replace: "zł"
+  replace: "zł"
 
 - trigger: ":QAR"
-	replace: "﷼"
+  replace: "﷼"
 
 - trigger: ":RON"
-	replace: "lei"
+  replace: "lei"
 
 - trigger: ":RUB"
-	replace: "₽"
+  replace: "₽"
 
 - trigger: ":SHP"
-	replace: "£"
+  replace: "£"
 
 - trigger: ":SAR"
-	replace: "﷼"
+  replace: "﷼"
 
 - trigger: ":RSD"
-	replace: "Дин."
+  replace: "Дин."
 
 - trigger: ":SCR"
-	replace: "₨"
+  replace: "₨"
 
 - trigger: ":SGD"
-	replace: "$"
+  replace: "$"
 
 - trigger: ":SBD"
-	replace: "$"
+  replace: "$"
 
 - trigger: ":SOS"
-	replace: "S"
+  replace: "S"
 
 - trigger: ":ZAR"
-	replace: "R"
+  replace: "R"
 
 - trigger: ":LKR"
-	replace: "₨"
+  replace: "₨"
 
 - trigger: ":SEK"
-	replace: "kr"
+  replace: "kr"
 
 - trigger: ":CHF"
-	replace: "CHF"
+  replace: "CHF"
 
 - trigger: ":SRD"
-	replace: "$"
+  replace: "$"
 
 - trigger: ":SYP"
-	replace: "£"
+  replace: "£"
 
 - trigger: ":TWD"
-	replace: "NT$"
+  replace: "NT$"
 
 - trigger: ":THB"
-	replace: "฿"
+  replace: "฿"
 
 - trigger: ":TTD"
-	replace: "TT$"
+  replace: "TT$"
 
 - trigger: ":TRL"
-	replace: "₺"
+  replace: "₺"
 
 - trigger: ":TVD"
-	replace: "$"
+  replace: "$"
 
 - trigger: ":UAH"
-	replace: "₴"
+  replace: "₴"
 
 - trigger: ":GBP"
-	replace: "£"
+  replace: "£"
 
 - trigger: ":USD"
-	replace: "$"
+  replace: "$"
 
 - trigger: ":UYU"
-	replace: "$U"
+  replace: "$U"
 
 - trigger: ":UZS"
-	replace: "лв"
+  replace: "лв"
 
 - trigger: ":VEF"
-	replace: "Bs"
+  replace: "Bs"
 
 - trigger: ":VND"
-	replace: "₫"
+  replace: "₫"
 
 - trigger: ":YER"
-	replace: "﷼"
+  replace: "﷼"
 
 - trigger: ":ZWD"
-	replace: "Z$"
+  replace: "Z$"
